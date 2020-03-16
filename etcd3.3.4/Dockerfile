@@ -1,1 +1,1 @@
-FROM gcr.io/etcd-development/etcd:v3.4.4
+docker pull quay.io/coreos/etcd:v3.4.4
